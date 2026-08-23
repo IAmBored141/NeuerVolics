@@ -1,0 +1,8 @@
+Name: NeuerVolics
+Version: 1.0.0
+Title: NeuerVolics
+Desc: 
+DLL: bin\NeuerVolics.dll
+Dependencies:
+- Name: Quintessential
+  Version: 0.2.0
